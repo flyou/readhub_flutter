@@ -1,21 +1,22 @@
 # Readhub
 
-a unofficial app of [readhub](https://readhub.me/)
+**a unofficial app of [readhub](https://readhub.me/)**
 
 ## Getting Started
 
-    git clone https://github.com/flyou/readhub_flutter.git
+   
+1.	git clone https://github.com/flyou/readhub_flutter.git
 
-	cd readhub_flutter
+2.	cd readhub_flutter
 	
-	flutter run
+3.	flutter run
 
 
 
-![](http://ww2.sinaimg.cn/large/0060lm7Tly1fo24qn5a9lj30u01hc43o.jpg)
+![](http://ww1.sinaimg.cn/large/0060lm7Tly1fo250cafsmj30dc0np76j.jpg)
 
-![](http://ww2.sinaimg.cn/large/0060lm7Tly1fo24qxxtbkj30u01hctlf.jpg)
+![](http://ww3.sinaimg.cn/large/0060lm7Tly1fo250o8iazj30dc0npn1j.jpg)
 
-![](http://ww3.sinaimg.cn/large/0060lm7Tly1fo24r6sn4pj30u01hcnah.jpg)
+![](http://ww4.sinaimg.cn/large/0060lm7Tly1fo250wvfgmj30dc0np78u.jpg)
 
-![](http://ww1.sinaimg.cn/large/0060lm7Tly1fo24rfv5b4j30u01hctmn.jpg)
+![](http://ww2.sinaimg.cn/large/0060lm7Tly1fo2512n71pj30dc0npdkk.jpg)
