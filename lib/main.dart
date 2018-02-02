@@ -13,9 +13,9 @@ void main() {
         new MaterialApp(
           routes:  {
             "/about_me": (context) =>
-            new WebPage("about me", "http://flyou.ren/about/"),
+            new WebPage("about me", "http://flyou.ren"),
             "/about_app": (context) =>
-            new WebPage("about app", "http://flyou.ren/about/"),
+            new WebPage("about app", "http://flutter.link/"),
             "/code": (context) =>
             new WebPage("look project", "https://github.com/flyou/readhub_flutter"),
 
